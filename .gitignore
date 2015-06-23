@@ -1,2 +1,13 @@
 vendor/
 composer.lock
+
+# IDEs
+.idea
+.settings
+.project
+.buildpath
+
+# Misc
+composer.phar
+.svn
+build/
